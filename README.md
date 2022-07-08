@@ -11,3 +11,7 @@ HTML File (index.html)
 CSS File (style.css)
 JavaScript File (script.js file)
 Images (dice.png file)
+
+Sample UI would be :
+
+![Sample UI](https://user-images.githubusercontent.com/62345420/178083142-d5d524e2-f62a-4398-a971-38f433bff2bf.JPG)
